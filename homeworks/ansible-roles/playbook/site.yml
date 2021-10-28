@@ -1,0 +1,7 @@
+---
+- name: Playbook roles Java and Elastic and Kibana
+  hosts: all
+  roles:
+    - java
+    - kibana-role
+    - elastic-role
