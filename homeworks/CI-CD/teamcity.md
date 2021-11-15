@@ -5,4 +5,4 @@
 https://github.com/ArinaU/example-teamcity
 
 
-![image info](../images/CI-CD/screen.png)
+![image info](../images/CI-CD/screen1.png)
